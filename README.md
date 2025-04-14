@@ -5,15 +5,25 @@
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+💻 Self-taught Front-End Developer  
+🎯 Passionate about building interfaces that not only work, but feel good  
+🌙 Night owl, coffee lover, and fan of aesthetic code & cozy projects  
+
+### 📚 Learning Journey
+I'm currently studying on my own through platforms like Udemy and any corner of the internet that helps me grow 🌐.  
+Self-learning has taught me more than just code — it’s given me discipline, curiosity, and a huge drive to keep improving.
+
+### 🌱 Right now I'm:
+- Diving deeper into responsive design & CSS animations
+- Building personal projects to grow my portfolio
+- Slowly exploring frameworks like React
+
+### 🧠 My mindset
+I love crafting things with intention — interfaces that tell a story and make users feel something.  
+Every line of code is part of the bigger picture.
+
+---
+- 📫 Reach out to me at: <a href="sebasbastiansoler3@gmail.com">sebasbastiansoler3@gmail.com</a>
 
 ## My Skills Include
 
