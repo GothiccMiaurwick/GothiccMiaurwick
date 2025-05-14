@@ -33,16 +33,3 @@ Every line of code is part of the bigger picture.
   </a>
 </p>
 
-
-<h3 >Connect with me</h3>
-
-<div>
-  <div>
-    <a [ href="https://linkedin.com/in/example](https://www.linkedin.com/in/juan-sebastian-soler-%C3%A1vila-071002300/)" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://twitter.com/example](https://x.com/MIAURWICK)" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-    </a>
-  </div>
-</div>
