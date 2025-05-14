@@ -33,17 +33,6 @@ Every line of code is part of the bigger picture.
   </a>
 </p>
 
-----
-
-<div align="center">
-<h2">Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=GothiccMiaurwick&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/GothiccMiaurwick)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=GothiccMiaurwicktheme=material-palenight)](https://github.com/GothiccMiaurwick)
-</div>
-
-
-----
 
 <h3 >Connect with me</h3>
 
